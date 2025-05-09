@@ -6,3 +6,7 @@ BÀI TẬP TUẦN 1
 **2. Theo bạn, trong tương lai gần (10 năm), lập trình di động có phát triển không? Giải thích tại sao?**
 - Tôi tin rằng lập trình di động sẽ tiếp tục phát triển mạnh mẽ trong tương lai gần, đặc biệt trong 10 năm tới.
 - Điều này là do sự gia tăng của các thiết bị di động thông minh và sự phụ thuộc ngày càng cao của con người vào các ứng dụng di động trong cuộc sống hàng ngày, từ công việc, giải trí đến chăm sóc sức khỏe.
+
+Câu 3: em code layout bằng xml nên thầy có thể nhìn ở dưới luôn
+
+![Screenshot 2025-05-09 141549](https://github.com/user-attachments/assets/5a2209bb-5c8b-4862-affc-0978eb44abbf)
